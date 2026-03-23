@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "笛吹き花ちゃん feat.上坂すみれ",
+  "base_artist": "Shinsei kamattechan",
+  "createdAt": "2026-03-23T18:01:55.750640Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "笛吹き花ちゃん feat. 上坂すみれ",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_笛吹き花ちゃん_feat._上坂すみれ_神聖かまってちゃん.txt"
+    }
+  ]
+}
